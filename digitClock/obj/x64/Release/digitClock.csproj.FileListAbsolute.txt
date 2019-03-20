@@ -1,0 +1,15 @@
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\MainWindow.g.cs
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\App.g.cs
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\MainWindow.baml
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\digitClock.Properties.Resources.resources
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\digitClock.csproj.GenerateResource.Cache
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\digitClock.csproj.CoreCompileInputs.cache
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\digitClock.csprojResolveAssemblyReference.cache
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\bin\x64\Release\digitalClock.exe.config
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\bin\x64\Release\digitalClock.exe
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\bin\x64\Release\digitalClock.pdb
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\digitalClock_MarkupCompile.cache
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\digitalClock_MarkupCompile.lref
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\digitalClock.g.resources
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\digitalClock.exe
+D:\Google Drive\同步\MyProject\C#\digitClock\digitClock\obj\x64\Release\digitalClock.pdb
