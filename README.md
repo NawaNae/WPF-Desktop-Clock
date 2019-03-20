@@ -1,7 +1,7 @@
 # WPF-Desktop-Clock
 ## 桌面小時鐘WPF
 ![](https://imgur.com/fQ108fy.png)
-#### DoloadPage
+#### DownloadPage
 https://nawanae.github.io/WPF-Desktop-Clock/
 #### 開發環境
 VS C# WPF
